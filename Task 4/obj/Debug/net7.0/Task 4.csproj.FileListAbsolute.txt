@@ -1,0 +1,14 @@
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\bin\Debug\net7.0\Task 4.exe
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\bin\Debug\net7.0\Task 4.deps.json
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\bin\Debug\net7.0\Task 4.runtimeconfig.json
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\bin\Debug\net7.0\Task 4.dll
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\bin\Debug\net7.0\Task 4.pdb
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\obj\Debug\net7.0\Task 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\obj\Debug\net7.0\Task 4.AssemblyInfoInputs.cache
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\obj\Debug\net7.0\Task 4.AssemblyInfo.cs
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\obj\Debug\net7.0\Task 4.csproj.CoreCompileInputs.cache
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\obj\Debug\net7.0\Task 4.dll
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\obj\Debug\net7.0\refint\Task 4.dll
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\obj\Debug\net7.0\Task 4.pdb
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\obj\Debug\net7.0\Task 4.genruntimeconfig.cache
+D:\Geekbrains. Курс-Fullstack разработчик\Введение в программирование\Lesson 1\Task 4\obj\Debug\net7.0\ref\Task 4.dll
